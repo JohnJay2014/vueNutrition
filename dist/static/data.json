@@ -1,9 +1,9 @@
 {
   "seller": {
-    "name": "粥品香坊（回龙观）",
-    "description": "蜂鸟专送",
+    "name": "姜阳私人定制",
+    "description": "营养学",
     "deliveryTime": 38,
-    "score": 4.2,
+    "score": 5,
     "serviceScore": 4.1,
     "foodScore": 4.3,
     "rankRate": 69.2,
@@ -11,27 +11,27 @@
     "deliveryPrice": 4,
     "ratingCount": 24,
     "sellCount": 90,
-    "bulletin": "粥品香坊其烹饪粥料的秘方源于中国千年古法，在融和现代制作工艺，由世界烹饪大师屈浩先生领衔研发。坚守纯天然、0添加的良心品质深得消费者青睐，发展至今成为粥类的引领品牌。是2008年奥运会和2013年园博会指定餐饮服务商。",
+    "bulletin": "将身体特定所需的营养和能吃到的食物映射起来，目的不是让自己去追求便宜的食物，要清楚的知道自己吃的每一口的营养",
     "supports": [
       {
-        "type": 0,
-        "description": "在线支付满28减5"
+        "type": -1,
+        "description": "精力饮食"
       },
       {
-        "type": 1,
-        "description": "VC无限橙果汁全场8折"
+        "type": -1,
+        "description": "控糖控油"
       },
       {
-        "type": 2,
-        "description": "单人精彩套餐"
+        "type": -1,
+        "description": "禁欲补充蛋白质补锌"
       },
       {
-        "type": 3,
-        "description": "该商家支持发票,请下单写好发票抬头"
+        "type": -1,
+        "description": "减脂增肌"
       },
       {
-        "type": 4,
-        "description": "已加入“外卖保”计划,食品安全保障"
+        "type": -1,
+        "description": "护肤防致癌"
       }
     ],
     "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg",
@@ -50,14 +50,14 @@
   },
   "goods": [
     {
-      "name": "热销榜",
+      "name": "头发营养",
       "type": -1,
       "foods": [
         {
-          "name": "皮蛋瘦肉粥",
-          "price": 10,
+          "name": "黑芝麻",
+          "price": 2,
           "oldPrice": "",
-          "description": "咸粥",
+          "description": "包子，糊",
           "sellCount": 229,
           "rating": 100,
           "info": "一碗皮蛋瘦肉粥，总是我到粥店时的不二之选。香浓软滑，饱腹暖心，皮蛋的Q弹与瘦肉的滑嫩伴着粥香溢于满口，让人喝这样的一碗粥也觉得心满意足",
@@ -88,10 +88,10 @@
           "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
-          "name": "扁豆焖面",
+          "name": "锌",
           "price": 14,
           "oldPrice": "",
-          "description": "",
+          "description": "锌能抑制睾酮转换为DHT， 生蚝，羊肉",
           "sellCount": 188,
           "rating": 96,
           "ratings": [
@@ -395,14 +395,14 @@
       ]
     },
     {
-      "name": "单人精彩套餐",
-      "type": 2,
+      "name": "防止抑郁食物",
+      "type": -1,
       "foods": [
         {
-          "name": "红枣山药粥套餐",
+          "name": "",
           "price": 29,
           "oldPrice": 36,
-          "description": "红枣山药糙米粥,素材包,爽口莴笋丝,四川泡菜或八宝酱菜,配菜可备注",
+          "description": "钙、铬、镁、锌、叶酸、维生素B6、维生素B12、维生素D、Omega-3脂肪酸",
           "sellCount": 17,
           "rating": 100,
           "info": "",
@@ -421,11 +421,11 @@
       ]
     },
     {
-      "name": "冰爽饮品限时特惠",
-      "type": 1,
+      "name": "蛋白质摄入计划",
+      "type": -1,
       "foods": [
         {
-          "name": "VC无限橙果汁",
+          "name": "羊肉",
           "price": 8,
           "oldPrice": 10,
           "description": "",
@@ -450,69 +450,9 @@
           ],
           "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750"
-        }
-      ]
-    },
-    {
-      "name": "精选热菜",
-      "type": -1,
-      "foods": [
-        {
-          "name": "娃娃菜炖豆腐",
-          "price": 17,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 43,
-          "rating": 92,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "菜量还可以,味道还可以",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/d/2d/b1eb45b305635d9dd04ddf157165fjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/d/2d/b1eb45b305635d9dd04ddf157165fjpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
-          "name": "手撕包菜",
-          "price": 16,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 29,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/9/c6/f3bc84468820121112e79583c24efjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/9/c6/f3bc84468820121112e79583c24efjpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "香酥黄金鱼/3条",
+          "name": "牛奶",
           "price": 11,
           "oldPrice": "",
           "description": "",
@@ -541,7 +481,67 @@
       ]
     },
     {
-      "name": "爽口凉菜",
+      "name": "油炸食品",
+      "type": -1,
+      "foods": [
+        {
+          "name": "炸薯条",
+          "price": 9,
+          "oldPrice": "",
+          "description": "丙烯酰胺, 杂环胺, 苯并芘",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/d/2d/b1eb45b305635d9dd04ddf157165fjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/d/2d/b1eb45b305635d9dd04ddf157165fjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "炸鸡翅",
+          "price": 16,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/9/c6/f3bc84468820121112e79583c24efjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/9/c6/f3bc84468820121112e79583c24efjpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "高油高盐食物",
       "type": -1,
       "foods": [
         {
@@ -1126,60 +1126,61 @@
   ],
   "ratings": [
     {
-      "username": "3******c",
+      "username": "银屑病",
       "rateTime": 1469281964000,
       "deliveryTime": 30,
       "score": 5,
       "rateType": 0,
-      "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "text": "银屑病大量皮屑脱落，大量锌和蛋白质流失",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": [
-        "南瓜粥",
-        "皮蛋瘦肉粥",
-        "扁豆焖面",
-        "娃娃菜炖豆腐",
-        "牛肉馅饼"
+        "蛋白质",
+        "锌"
       ]
     },
     {
-      "username": "2******3",
+      "username": "锌",
       "rateTime": 1469271264000,
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
       "deliveryTime": "",
-      "text": "服务态度不错",
+      "text": "锌是体内多种酶的重要成分，参与人体内核酸与蛋白质的合成，锌在皮肤中含量占全身含量的20%，锌是保持皮肤健康的微量元素之一，对痤疮、皮肤干燥和各种丘疹都有作用，锌还是头发光泽的主要成分",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": [
-        "扁豆焖面"
+        "锌"
       ]
     },
     {
-      "username": "3******b",
+      "username": "蛋白质",
       "rateTime": 1469261964000,
       "score": 3,
       "rateType": 1,
-      "text": "",
+      "text": "人体的免疫细胞组成为蛋白质分子，倘若蛋白质摄入不足，会导致人体没有足够的免疫细胞吞噬体内毒素",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
-      "recommend": []
+      "recommend": [
+        "蛋白质"
+      ]
     },
     {
-      "username": "1******c",
+      "username": "大豆蛋白",
       "rateTime": 1469261864000,
       "deliveryTime": 20,
       "score": 5,
       "rateType": 0,
-      "text": "良心店铺",
+      "text": "大豆蛋白缺少蛋氨酸",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
-      "recommend": []
+      "recommend": [
+        "大豆蛋白"
+      ]
     },
     {
-      "username": "2******d",
+      "username": "脂肪",
       "rateTime": 1469251264000,
       "deliveryTime": 10,
       "score": 4,
       "rateType": 0,
-      "text": "",
+      "text": "每天每千克体重摄入0.6g脂肪",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
