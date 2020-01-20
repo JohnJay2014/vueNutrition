@@ -11,22 +11,25 @@
                 <span class="name">{{seller.name}}</span>
             </div>
             <div class="description">
-                {{seller.description + ' / ' + seller.deliveryTime + '分钟送达'}}
+                {{seller.description + ' / ' + '健身'}}
             </div>
             <div class="supports" v-if="seller.supports">
                 <div class="supports_desc">
+                    <!--
                     <span class="icon" :class="iconClassMap[seller.supports[0].type]"></span>
-                    <span class="text">{{seller.supports[0].description}}</span>
+                    -->
+                    <span class="text">{{"民以食为天"}}</span>
                 </div>
             </div>
         </div>
         <div class="support-count" v-if="seller.supports" @click="showDetails()">
-            <span class="count">{{seller.supports.length+'个'}}</span>
+            <span class="count">{{"概览"}}</span>
             <i class="icon-keyboard_arrow_right"></i>
         </div>
   </div>
   <div class="bulletin-wrapper" @click="showDetails()">
-    <span class="bulletin-title"></span>
+  <!--
+    <span class="bulletin-title"></span> -->
     <span class="bulletin-text">{{seller.bulletin}}</span>
     <i class="icon-keyboard_arrow_right"></i>
   </div>
@@ -43,7 +46,7 @@
             </div>
             <div class="title">
               <div class="line"> </div>
-              <div class="text">优惠信息</div>
+              <div class="text">饮食目标</div>
               <div class="line"></div>
             </div>
             <ul v-if="seller.supports" class="supports">
@@ -54,7 +57,7 @@
             </ul>
             <div class="title">
               <div class="line"> </div>
-              <div class="text">商家公告</div>
+              <div class="text">饮食理念</div>
               <div class="line"></div>
             </div>
             <div class="bulletin">{{seller.bulletin}}</div>

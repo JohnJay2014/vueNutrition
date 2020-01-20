@@ -189,8 +189,10 @@
                   <span class="rateTime">{{evel.rateTime | time}}</span>
                 </div>
                 <div class="star-wrapper">
+                  <!--
                   <star :size="24" :score="evel.score"></star>
                   <span class="deliveryTime">{{evel.deliveryTime}}分钟送达</span>
+                  -->
                 </div>
                 <div class="text">
                   {{evel.text}}
@@ -226,11 +228,11 @@ export default {
         count: 0,
         active: true
       }, {
-        name: '推荐',
+        name: '蛋白质',
         count: 0,
         active: false
       }, {
-        name: '吐槽',
+        name: '锌',
         count: 0,
         active: false
       }],

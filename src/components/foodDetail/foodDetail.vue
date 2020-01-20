@@ -25,7 +25,7 @@
         </div>
         <div class="divider"></div>
         <div class="desc">
-          <div class="title">商品介绍</div>
+          <div class="title">食品介绍</div>
           <div class="content">{{food.info}}</div>
         </div>
         <div class="divider"></div>

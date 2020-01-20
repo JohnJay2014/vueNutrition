@@ -24,8 +24,10 @@
                 <h2>{{food.name}}</h2>
                 <p class="description" v-show="food.description">{{food.description}}</p>
                 <div class="sell-info">
+                  <!--
                   <span class="sellCount">月售{{food.sellCount}}份</span>
                   <span class="rating">好评率{{food.rating}}%</span>
+                  -->
                 </div>
                 <div class="price">
                   <span class="newPrice"><span class="unit">￥</span>{{food.price}}</span>
