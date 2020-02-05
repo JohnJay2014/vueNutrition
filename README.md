@@ -1,35 +1,27 @@
-> 一直对vue很感兴趣，最近使用vue2.0开发了高仿饿了么点餐系统来练练手，不得不说vue真是一个很不错的框架，但是也遇到过一些坑，在这里和大家分享一下
+> 实现营养成分的filter
 
-# 饿了么点餐系统
+# 姜阳营养学与食品消费
 
 > vue2.0、vuex、vue-router、axios、webpack、eslint、better-scroll
 
-
 ## 演示 
 
-<a href="https://simonzhangiter.github.io/VueDemo_Sell_Eleme" target=_blank>在线演示戳我</a>（请使用chrome开发者手机演示模式预览）
-
-### 移动端演示
-扫二维码在手机上查看效果更好
-
-<img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="25%">
-
-
-## 组件
+## 功能
 
 - [x] 购物车
 - [x] 购买物品小球飞入动画
-- [x] 评价star组件
 - [x] 商品添加、删除组件
 - [x] 优惠图标组件
-- [x] 目录、列表联动滚动
 - [x] 画廊
-- [x] 评论的是否满意和内容筛选
-- [x] 商品列表页面
-- [x] 店铺评价页面
-- [x] 商家介绍页面
-- [x] 优惠活动页面
-- [x] 商品详情页面
+
+- [ ] 评价star组件
+- [ ] 目录、列表联动滚动
+- [ ] 评论的是否满意和内容筛选
+- [ ] 商品列表页面
+- [ ] 店铺评价页面
+- [ ] 商家介绍页面
+- [ ] 优惠活动页面
+- [ ] 商品详情页面
 
 ## 构建
 
@@ -141,9 +133,6 @@ export default {
 }
 ```
 
-
-除了以上总结的这点小的知识点以外，还有很多vue的知识想要和大家分享，以后会陆续写出来，大家感兴趣的也可以来我的GitHub一起来写这个项目（觉得不错的给个star Hah）
-
 ## 安装步骤
 
 ``` bash
@@ -158,20 +147,6 @@ npm run build
 ```
 ## 项目截图
 
-<img src="https://static.oschina.net/uploads/space/2017/0207/110250_3uWi_2493500.jpeg" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cloud.githubusercontent.com/assets/20501873/24188896/ff2c5910-0f1d-11e7-80c0-bc28fd84fe80.png" width="40%"/>
-
 ## 交流
 
-欢迎热爱学习、忠于分享的胖友一起来交流
-
-- QQ：745913574
-
-- QQ群：149683643
-
-- WeChat
-
-<img src="https://p0.meituan.net/dpgroup/749d8a79cd0a9bbc4e25b2f474a398d91256770.png?" width="25%">
-
 ## 声明
-
-本项目的设计资源来自<a href="https://coding.imooc.com/class/74.html" target=_blank>慕课网</a>，但慕课网采用的是vue1.0开发，本项目采用vue2.0重构，并且引入vuex、vue-router等插件，是我个人的练手项目，如有冒犯，还请海涵。

@@ -23,10 +23,10 @@
   <v-header :seller="seller"></v-header>
   <div class="tab">
     <div class="tab-item">
-      <router-link to="/goods">方向</router-link>
+      <router-link to="/goods">消费</router-link>
     </div>
     <div class="tab-item">
-      <router-link to="/ratings">思想</router-link>
+      <router-link to="/ratings">知识</router-link>
     </div>
     <div class="tab-item">
       <router-link to="/seller">目标</router-link>

@@ -173,10 +173,12 @@
             {{item.name}}<span class="count">{{item.count}}</span>
           </span>
         </div>
+        <!--
         <div class="switch" @click="evelflag=!evelflag">
           <span class="icon-check_circle" :class="{'on':evelflag}"></span>
           <span class="text">只看有内容的评价</span>
         </div>
+        -->
         <div class="evel-list">
           <ul>
             <li class="evel" v-for="evel in evelArr">

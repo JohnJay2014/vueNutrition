@@ -1,5 +1,6 @@
 <template lang="html">
   <div class="">
+  <!--
   <div class="shopCart">
     <div class="content">
       <div class="content-left" @click="listToggle">
@@ -53,6 +54,7 @@
       </div>
     </transition>
   </div>
+  -->
   <transition name="fade-backdrop">
     <div class="backdrop" v-show="showBackdrop" @click="hideBackdrop"></div>
   </transition>

@@ -16,7 +16,7 @@
         <li v-for="item in goods" class="food-list food-list-hook">
           <h1>{{item.name}}</h1>
           <ul>
-            <li v-for="food in item.foods" class="food-item" @click="goDetail(food)">
+            <li v-for="food in item.foods" class="food-item" >
               <div class="icon">
                 <img width="57" height="57" :src="food.icon"/>
               </div>
@@ -30,8 +30,10 @@
                   -->
                 </div>
                 <div class="price">
+                  <!--
                   <span class="newPrice"><span class="unit">￥</span>{{food.price}}</span>
                   <span v-show="food.oldPrice" class="oldPrice">￥{{food.oldPrice}}</span>
+                  -->
                 </div>
                 <div class="cartcontrol-wrapper">
                   <cartcontrol :food="food"></cartcontrol>

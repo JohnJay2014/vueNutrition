@@ -147,15 +147,15 @@
         </div>
         <div class="remark">
           <div class="block">
-            <h2>起送价</h2>
+            <h2>体重</h2>
             <div class="content">
-              <span class="num">{{seller.minPrice}}</span>元
+              <span class="num">{{seller.minPrice}}</span>公斤
             </div>
           </div>
           <div class="block">
-            <h2>商家配送</h2>
+            <h2>基础代谢率</h2>
             <div class="content">
-              <span class="num">{{seller.deliveryPrice}}</span>元
+              <span class="num">{{seller.deliveryPrice}}</span>大卡
             </div>
           </div>
           <div class="block">
@@ -185,7 +185,7 @@
       </div>
       <div class="divider"></div>
       <div class="seller-imgs">
-        <h1>商家实景</h1>
+        <h1>期望身材</h1>
         <div class="img-wrapper" ref="picsWrapper">
           <div ref="picList">
             <img v-for="pic in seller.pics" :src="pic" width="120" height="90">
@@ -194,7 +194,7 @@
       </div>
       <div class="divider"></div>
       <div class="seller-info">
-        <h1>商家信息</h1>
+        <h1>个人信息</h1>
         <ul class="info-list">
           <li class="info" v-for="info in seller.infos">{{info}}</li>
         </ul>
