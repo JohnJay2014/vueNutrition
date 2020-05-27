@@ -134,6 +134,11 @@
     <div class="seller-content">
       <div class="info">
         <div class="title">
+          <div class="info">蛋白质80g</div>
+          <div class="info">碳水化合物200g</div>
+          <div class="info">糖类60g</div>
+          <div class="info">脂肪50g</div>
+          <!--
           <div class="text">{{seller.name}}</div>
           <div class="star-wrapper">
             <star :size="36" :score="seller.score"></star>
@@ -144,6 +149,7 @@
             <span class="icon-favorite" :class="{'active':collectflag}"></span>
             <span class="text">{{collectflag?'已收藏':'收藏'}}</span>
           </div>
+          -->
         </div>
         <div class="remark">
           <div class="block">
@@ -159,9 +165,9 @@
             </div>
           </div>
           <div class="block">
-            <h2>平均配送时间</h2>
+            <h2>摄入卡路里</h2>
             <div class="content">
-              <span class="num">{{seller.deliveryTime}}</span>分钟
+              <span class="num">{{seller.deliveryTime}}</span>大卡
             </div>
           </div>
         </div>

@@ -1,8 +1,8 @@
 {
-  "name": "sell",
+  "name": "nutrition",
   "version": "1.0.0",
-  "description": "sell app",
-  "author": "<simonzhangr@foxmail.com>",
+  "description": "nutrition app",
+  "author": "xiangjiechou@gmail.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

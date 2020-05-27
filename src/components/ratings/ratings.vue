@@ -182,13 +182,17 @@
         <div class="evel-list">
           <ul>
             <li class="evel" v-for="evel in evelArr">
+              <!--
               <div class="avatar">
                 <img :src="evel.avatar" width="28" height="28">
               </div>
+              -->
               <div class="content">
                 <div class="user">
                   <span class="name">{{evel.username}}</span>
+                  <!--
                   <span class="rateTime">{{evel.rateTime | time}}</span>
+                  -->
                 </div>
                 <div class="star-wrapper">
                   <!--
@@ -200,7 +204,9 @@
                   {{evel.text}}
                 </div>
                 <div class="recommend">
+                  <!--
                   <span class="icon icon-thumb_up" v-show="evel.recommend.length"></span>
+                  -->
                   <span class="dish" v-for="dish in evel.recommend">{{dish}}</span>
                 </div>
               </div>
