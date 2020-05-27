@@ -2,7 +2,7 @@
   "seller": {
     "name": "姜阳私人定制",
     "description": "营养学",
-    "deliveryTime": 38,
+    "deliveryTime": 1590,
     "score": 5,
     "serviceScore": 4.1,
     "foodScore": 4.3,
@@ -46,8 +46,8 @@
       "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg?imageView2/1/w/180/h/180"
     ],
     "infos": [
-      "该商家支持发票,请下单写好发票抬头",
-      "品类:其他菜系,包子粥店",
+      "ACE美国运动委员会认证教练",
+      "留学顾问",
       "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
       "营业时间:10:00-20:30"
     ]
@@ -61,7 +61,7 @@
           "name": "减少糖脂混合物的摄入",
           "price": 37,
           "oldPrice": "",
-          "description": "芝士蛋糕,冰激凌,布丁,糖霜甜甜圈",
+          "description": "芝士蛋糕,冰激凌,布丁,糖霜甜甜圈，奥利奥",
           "sellCount": 3,
           "rating": 100,
           "info": "",
@@ -74,14 +74,14 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/114/h/114",
+          "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1794016187,1162730938&fm=26&gp=0.jpg",
           "image": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
           "name": "减少油炸食品的摄入",
           "price": 31,
           "oldPrice": "",
-          "description": "",
+          "description": "油炸方便面",
           "sellCount": 12,
           "rating": 100,
           "info": "",
@@ -94,8 +94,69 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/114/h/114",
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2566093028,2800367328&fm=26&gp=0.jpg",
           "image": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "摄入高纤维低热量食物",
+          "price": 17,
+          "oldPrice": "",
+          "description": "富含膳食纤维的食物有全谷类食物、杂豆类食物、蔬菜、水果等植物性食物(西兰花), 这些食物中富含果胶、树胶、豆胶等可溶性膳食纤维, 膳食纤维可以胆酸结合，故有降血脂的作用。：膳食纤维可以抑制肠道内厌氧菌的繁殖，促进嗜氧菌的生长。也就是说可以促进有益菌的生长，而大肠中的有益菌繁殖正常可以有效地减轻体重以及有效地控制治疗有肥胖相关的疾病",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "B族维生素",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "B族维生素的主要生理功能是消化脂肪辅酶",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
@@ -141,7 +202,7 @@
           "name": "锌",
           "price": 14,
           "oldPrice": "",
-          "description": "锌能抑制睾酮转换为DHT， 生蚝，羊肉",
+          "description": "锌能抑制睾酮转换为DHT， 生蚝，羊肉；每百克含锌量，香梨（2.16毫克）, 牛肉（1.77毫克），芝麻（6.13毫克），鸡肉（1.29毫克）",
           "sellCount": 188,
           "rating": 96,
           "ratings": [
@@ -170,209 +231,6 @@
           "info": "",
           "icon": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "牛肉馅饼",
-          "price": 14,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 114,
-          "rating": 91,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 1,
-              "text": "难吃不推荐",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "招牌猪肉白菜锅贴/10个",
-          "price": 17,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 101,
-          "rating": 78,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 1,
-              "text": "不脆,不好吃",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "南瓜粥",
-          "price": 9,
-          "oldPrice": "",
-          "description": "甜粥",
-          "sellCount": 91,
-          "rating": 100,
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "红豆薏米美肤粥",
-          "price": 12,
-          "oldPrice": "",
-          "description": "甜粥",
-          "sellCount": 86,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "红枣山药糙米粥",
-          "price": 10,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 81,
-          "rating": 91,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "糊塌子",
-          "price": 10,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 80,
-          "rating": 93,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
@@ -408,10 +266,44 @@
           "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1580913999868&di=9ce2f179aa300e5a5bf4b31a3aaa3ec0&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ftranslate%2F560%2Fw1080h1080%2F20181002%2FUokm-hkvrhpr9639519.jpg"
         },
         {
+          "name": "豆浆",
+          "price": 10,
+          "oldPrice": "",
+          "description": "大豆蛋白",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1150612373,4144872271&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
           "name": "牛奶",
           "price": 11,
           "oldPrice": "",
-          "description": "",
+          "description": "牛奶中微量元素含量太低",
           "sellCount": 15,
           "rating": 100,
           "info": "",
@@ -435,26 +327,26 @@
           "image": "http://fuss10.elemecdn.com/4/e7/8277a6a2ea0a2e97710290499fc41jpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
-          "name": "虾",
-          "price": 10,
+          "name": "鸡蛋",
+          "price": 12,
           "oldPrice": "",
-          "description": "虾属于高嘌呤高蛋白食物，食用后会使体内嘌呤含量升高，容易引发或加重通风症状，虾肉中含有大量碘元素，甲亢患者不易多吃，虾头里面有虾的内脏",
-          "sellCount": 124,
-          "rating": 85,
+          "description": "每个鸡蛋含6-7克蛋白质",
+          "sellCount": 86,
+          "rating": 100,
           "info": "",
           "ratings": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
-              "rateType": 1,
-              "text": "没啥味道",
+              "rateType": 0,
+              "text": "",
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             },
             {
               "username": "2******3",
               "rateTime": 1469271264000,
-              "rateType": 1,
-              "text": "很一般啊",
+              "rateType": 0,
+              "text": "",
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             },
             {
@@ -465,14 +357,14 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1448693711,633521647&fm=26&gp=0.jpg",
-          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2833716440,1069425915&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
           "name": "风干牛肉干",
           "price": "158/500g",
           "oldPrice": "",
-          "description": "",
+          "description": "三只松鼠",
           "sellCount": 28,
           "rating": 100,
           "info": "",
@@ -503,10 +395,77 @@
           "image": "http://fuss10.elemecdn.com/6/54/f654985b4e185f06eb07f8fa2b2e8jpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
+          "name": "牛肉饭牛肉汉堡",
+          "price": 14,
+          "oldPrice": "",
+          "description": "吉野家，食其家，麦当劳汉堡王",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1666649001,4030705153&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "火腿肠",
+          "price": 9,
+          "oldPrice": "",
+          "description": "甜粥",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2986156194,2570896952&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
           "name": "扇贝丁",
           "price": 4,
           "oldPrice": "",
-          "description": "",
+          "description": "水一方",
           "sellCount": 84,
           "rating": 100,
           "info": "",
@@ -535,6 +494,210 @@
           ],
           "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=286072113,2278279338&fm=26&gp=0.jpg",
           "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "虾",
+          "price": 10,
+          "oldPrice": "",
+          "description": "麻辣香锅中添加虾，虾属于高嘌呤高蛋白食物，食用后会使体内嘌呤含量升高，容易引发或加重通风症状，虾肉中含有大量碘元素，甲亢患者不易多吃，虾头里面有虾的内脏",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1448693711,633521647&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "三文鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "三文鱼的粗蛋白含量在20%，养殖三文鱼比挪威的脂肪高",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3271915595,3597908643&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "平菇",
+          "price": 10,
+          "oldPrice": "",
+          "description": "蘑菇，平菇，香菇，草菇含有丰富的亮氨酸，赖氨酸；蛋白质含量20%",
+          "sellCount": 33,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4170736386,2076194381&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/a/94/7371083792c19df00e546b29e344cjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "巴沙鱼, 黑鱼",
+          "price": 10,
+          "oldPrice": "",
+          "description": "正好鱼见你",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2710151673,1351685005&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "蛤蜊面",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3468503603,2598082895&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "蛋白粉",
+          "price": 17,
+          "oldPrice": "",
+          "description": "倍肽, 肌肉科技",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=943819378,3530857854&fm=26&gp=0.jpg",
+          "image": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
@@ -629,7 +792,7 @@
       "type": -1,
       "foods": [
         {
-          "name": "八宝酱菜",
+          "name": "咸菜",
           "price": 4,
           "oldPrice": "",
           "description": "",
@@ -665,14 +828,14 @@
       ]
     },
     {
-      "name": "果拼果汁",
+      "name": "水果",
       "type": -1,
       "foods": [
         {
-          "name": "蜜瓜圣女萝莉杯",
+          "name": "火龙果、柿子、草莓、甜瓜、西瓜、葡萄",
           "price": 6,
           "oldPrice": "",
-          "description": "",
+          "description": "有细小种子的水果，这些种子不能被肠道消化吸收，会刺激肠道蠕动，日常膳食纤维摄入不足的人很适合吃",
           "sellCount": 1,
           "rating": "",
           "info": "",
@@ -681,10 +844,10 @@
           "image": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
-          "name": "加多宝",
+          "name": "高热量水果",
           "price": 6,
           "oldPrice": "",
-          "description": "",
+          "description": "香蕉每百克有90大卡",
           "sellCount": 7,
           "rating": 100,
           "info": "",
@@ -713,45 +876,18 @@
           ],
           "icon": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "VC无限橙果汁",
-          "price": 8,
-          "oldPrice": 10,
-          "description": "",
-          "sellCount": 15,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "还可以",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
     {
-      "name": "小吃主食",
+      "name": "补锌",
       "type": -1,
       "foods": [
         {
-          "name": "扁豆焖面",
+          "name": "",
           "price": 14,
           "oldPrice": "",
-          "description": "",
+          "description": "核桃>牡蛎>羊肉>香菇>牛肉>鸡胸肉>鸡蛋",
           "sellCount": 188,
           "rating": 96,
           "info": "",
@@ -780,40 +916,6 @@
           ],
           "icon": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "葱花饼",
-          "price": 10,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 124,
-          "rating": 85,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 1,
-              "text": "没啥味道",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 1,
-              "text": "很一般啊",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
           "name": "牛肉馅饼",
@@ -848,74 +950,6 @@
           ],
           "icon": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "招牌猪肉白菜锅贴/10个",
-          "price": 17,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 101,
-          "rating": 78,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 1,
-              "text": "不脆,不好吃",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "糊塌子",
-          "price": 10,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 80,
-          "rating": 93,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
@@ -1090,40 +1124,6 @@
           ],
           "icon": "http://fuss10.elemecdn.com/e/a3/5317c68dd618929b6ac05804e429ajpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/e/a3/5317c68dd618929b6ac05804e429ajpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "田园蔬菜粥",
-          "price": 10,
-          "oldPrice": "",
-          "description": "咸粥",
-          "sellCount": 33,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/a/94/7371083792c19df00e546b29e344cjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/a/94/7371083792c19df00e546b29e344cjpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     }
@@ -1295,52 +1295,52 @@
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
-      "text": "高强度运动燃糖，低强度运动燃脂，胰岛素分泌，代谢一斤脂肪，需要1L水",
+      "text": "高强度运动燃糖，低强度运动燃脂，代谢一斤脂肪，需要1L水",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
     {
-      "username": "s******c",
+      "username": "热量",
       "rateTime": 1469141964000,
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
-      "text": "好",
+      "text": "脂肪的热量约900大卡每百克，糖类和蛋白质的热量都只有400大卡每百克，酒精是700大卡每百克，膳食纤维200大卡每百克",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
     {
-      "username": "z******3",
+      "username": "瘦肉精",
       "rateTime": 1469131264000,
       "deliveryTime": "",
       "score": 5,
       "rateType": 0,
-      "text": "吃了还想再吃",
+      "text": "抑制动物脂肪生成，促进骨骼肌蛋白质的合成，但瘦肉精作为一种兴奋剂，在人肝脏等内脏器官残留较高，吃后可出现肌肉震颤，心慌，战栗",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
     {
-      "username": "n******b",
+      "username": "维生素B",
       "rateTime": 1469121964000,
       "deliveryTime": "",
       "score": 3,
       "rateType": 1,
-      "text": "发票开的不对",
+      "text": "熬夜会大量消耗人体内与神经和肌肉调节相关的B族维生素，B族维生素可以通过促进神经元突触的脂类合成，来增加神经突触长度，从而起到修复神经元的作用",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
     {
-      "username": "m******c",
+      "username": "盐",
       "rateTime": 1469111964000,
       "deliveryTime": 30,
       "score": 5,
       "rateType": 0,
-      "text": "好吃",
+      "text": "成人每天食盐不超过6克",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
     {
-      "username": "l******3",
+      "username": "胰岛素",
       "rateTime": 1469101264000,
       "deliveryTime": 40,
       "score": 5,
@@ -1350,17 +1350,17 @@
       "recommend": []
     },
     {
-      "username": "3******o",
+      "username": "脂肪分解",
       "rateTime": 1469091964000,
       "deliveryTime": "",
       "score": 2,
       "rateType": 1,
-      "text": "",
+      "text": "当血液中葡萄糖和脂肪酸都转换成能量被细胞消耗完以后，最先充当主要能量物质的是来自于肝糖原分解的葡萄糖，与此同时肾上腺素和肾上皮质素，就开始与脂肪组织内的鲜脂酵素结合，把脂肪细胞内的三甘油脂分解成脂肪酸，并且催促脂肪酸赶紧离开脂肪细胞到肝脏内转化成能量，供应细胞继续燃烧。在加上甲状腺素加速细胞燃烧能量的速度，这时候从皮肤下层，腹腔大小网膜，肌肉间各个脂肪组织所拥出的脂肪酸就会急急忙忙的加入肝脏，而被转化成能量，这就是脂肪的分解，而分解掉的脂肪会变成水的二氧化碳",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
     {
-      "username": "3******p",
+      "username": "脂肪合成",
       "rateTime": 1469081964000,
       "deliveryTime": "",
       "score": 4,
@@ -1370,22 +1370,52 @@
       "recommend": []
     },
     {
-      "username": "o******k",
+      "username": "黄豆",
       "rateTime": 1469071264000,
       "deliveryTime": "",
       "score": 5,
       "rateType": 0,
-      "text": "",
+      "text": "黄豆的含油量低，只有16%～24%",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     },
     {
-      "username": "k******b",
+      "username": "胶原蛋白肽",
       "rateTime": 1469061964000,
       "deliveryTime": "",
       "score": 4,
       "rateType": 0,
-      "text": "",
+      "text": "肽是介于氨基酸和蛋白质之间的化合物片段，两个以上氨基酸分子通过肽键相连接形成",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "高尿酸",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "尿酸是嘌呤代谢的终产物，只有约10%的高尿酸患者才会发生痛风，尿酸沉在哪里，哪里才会痛，只有当尿酸沉积在骨骼、关节处才有可能引起痛风。尿酸沉积在肾脏会引起肾脏损害，沉积在尿路，会引起尿路结石。尿酸主要通过肾脏（尿液）和肠道（粪便）排泄",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "嘌呤",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "不吃富含嘌呤的蔬菜，比如韭菜、菜花、豌豆苗、扁豆、菌类等。因为菠菜等植物富含草酸，容易导致高草酸尿成倍增长，使得尿酸急增，加重肾脏负担",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "谷氨酰胺",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "L谷氨酰胺是肌肉中最丰富的游离氨基酸, 约占人体游离氨基酸总量的60%, 在人体内可由谷氨酸、缬氨酸、异亮氨酸合成，作为大脑的一种能量来源，谷氨酰胺能改善心情，增强智力, 可用于治疗胃酸过多。提供外源性谷氨酰胺可明显增加危重病人的淋巴细胞总数、T淋巴细胞和循环中CD4/CD8的比率，增强机体的免疫功能, 研究指出，无论进食乳清蛋白或谷氨酰胺，都可以减少对食物的渴望和减低能量摄入, 高强度运动会造成谷氨酰胺的流失",
       "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
       "recommend": []
     }
