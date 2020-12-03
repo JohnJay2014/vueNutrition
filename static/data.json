@@ -81,7 +81,7 @@
           "name": "减少油炸食品的摄入",
           "price": 31,
           "oldPrice": "",
-          "description": "油炸方便面",
+          "description": "油炸方便面、 炸薯条110g热量在330大卡",
           "sellCount": 12,
           "rating": 100,
           "info": "",
@@ -165,10 +165,10 @@
       "type": -1,
       "foods": [
         {
-          "name": "黑芝麻",
+          "name": "黑芝麻?",
           "price": 2,
           "oldPrice": "",
-          "description": "包子，糊",
+          "description": "到底是黑芝麻的什么成分防脱发呢，包子，糊",
           "sellCount": 229,
           "rating": 100,
           "info": "一碗皮蛋瘦肉粥，总是我到粥店时的不二之选。香浓软滑，饱腹暖心，皮蛋的Q弹与瘦肉的滑嫩伴着粥香溢于满口，让人喝这样的一碗粥也觉得心满意足",
@@ -238,6 +238,40 @@
       "name": "蛋白质摄入计划",
       "type": -1,
       "foods": [
+        {
+          "name": "嚼劲搭配蛋白粉",
+          "price": 9,
+          "oldPrice": "",
+          "description": "小番茄, 提子",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
         {
           "name": "羊肉",
           "price": 8,
@@ -330,7 +364,7 @@
           "name": "鸡蛋",
           "price": 12,
           "oldPrice": "",
-          "description": "每个鸡蛋含6-7克蛋白质",
+          "description": "每个鸡蛋含6-7克蛋白质, 全家买几个茶叶蛋吃, 外卖或者堂食记得加鸡蛋",
           "sellCount": 86,
           "rating": 100,
           "info": "",
@@ -395,10 +429,10 @@
           "image": "http://fuss10.elemecdn.com/6/54/f654985b4e185f06eb07f8fa2b2e8jpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
-          "name": "牛肉饭牛肉汉堡",
+          "name": "牛排牛肉饭牛肉汉堡",
           "price": 14,
           "oldPrice": "",
-          "description": "吉野家，食其家，麦当劳汉堡王",
+          "description": "吉野家，食其家，麦当劳汉堡王, 必胜客坐下来吃吃普通的牛排，但都还不是自己盒马买澳洲来做",
           "sellCount": 114,
           "rating": 91,
           "info": "",
@@ -876,6 +910,40 @@
           ],
           "icon": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "香蕉",
+          "price": 14,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
@@ -916,40 +984,6 @@
           ],
           "icon": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "牛肉馅饼",
-          "price": 14,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 114,
-          "rating": 91,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 1,
-              "text": "难吃不推荐",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
@@ -989,40 +1023,6 @@
           ],
           "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "南瓜粥",
-          "price": 9,
-          "oldPrice": "",
-          "description": "甜粥",
-          "sellCount": 91,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
         },
         {
           "name": "红豆薏米美肤粥",
@@ -1145,7 +1145,6 @@
     {
       "username": "锌",
       "rateTime": 1469271264000,
-      "deliveryTime": "",
       "score": 4,
       "rateType": 0,
       "deliveryTime": "",
